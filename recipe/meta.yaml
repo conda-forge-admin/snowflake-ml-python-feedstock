@@ -55,6 +55,7 @@ requirements:
     - sentencepiece >=0.1.95,<0.3
     - shap >=0.46.0,<1
     - streamlit >=1.30.0,<2
+    - tabicl >=2.0,<3
     - tensorflow >=2.17.0,<3
     - tokenizers >=0.15.1,<1
     - torchdata >=0.4,<1
